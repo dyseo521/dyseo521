@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dongyun+Seo+%F0%9F%91%8B;AI+Agent+Developer;Building+AI+Agents+with+ReAct+%26+RAG)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dongyun+Seo+%F0%9F%91%8B;AI+Agent+Developer;Building+AI+agents+on+AWS)](https://git.io/typing-svg)
 
 </div>
 
