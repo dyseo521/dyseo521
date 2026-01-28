@@ -65,7 +65,7 @@
 
 | Rank | Award | Event | Date |
 |:---:|:---:|:---|:---:|
-| 🥇 **1st Prize** | 대상 | INHA SW NET-ZERO Joint Hackathon (인하 SW NET-ZERO 공동 해커톤) | 2025.06 |
+| 🥇 **1st Prize** | 대상 | INHA SW NET-ZERO Hackathon (INHA SW NET-ZERO 공동 해커톤) | 2025.06 |
 | 🥇 **1st Prize** | 대상 | AWS x Sangmyung Univ. Hackathon (AWS와 함께하는 소중한 상명 해커톤) | 2024.08 |
 | 🥇 **1st Prize** | 대상 | Liberal Studies Research Project (자유전공학부 주제탐구 프로젝트) | 2023.12 |
 | 🥇 **1st Prize** | 금상 | DKU Data Science Competition (DKU 데이터사이언스 경진대회) | 2025.06 |
