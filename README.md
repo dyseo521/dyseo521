@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dongyun+Seo+%F0%9F%91%8B;AI+Agent+Developer;Building+AI+agents+on+AWS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dongyun+Seo+%F0%9F%91%8B;Building+AI+agents+on+AWS)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,15 +42,16 @@
 
 ## Featured Projects
 
-### [EECAR](https://github.com/dyseo521/EECAR)
-> AI-powered Hybrid RAG platform for EV used parts B2B marketplace
-- Built with Amazon Bedrock Knowledge Base + Hybrid RAG
-- Achieved **90% cost reduction** through optimized architecture
+### [EECAR](https://github.com/dyseo521/eecar)
+> AI-powered Hybrid RAG platform for EV used parts B2B
+- **99.8% infra cost reduction**: OpenSearch → S3 Vectors
+- **Hybrid RAG** search (Vector 70% + BM25 30%)
+- **자동이 2.0**: ReAct pattern AI DevOps assistant
 
-### [뱁둥이 (BaebDoong-i)](https://github.com/dyseo521/baebdoong-i)
-> AI Slack Bot for IGRUS Club automation
-- Implemented **ReAct pattern** AI Agent with Claude Tool Use
-- Automated club management workflows
+### [뱁둥이 (Baepdoongi Bot)](https://github.com/dyseo521/baepdoongi-bot)
+> Serverless Slack Bot & Admin Dashboard for IGRUS Club
+- **RAG Q&A** with async SQS (bypassing Slack 3s timeout)
+- Automated dues pipeline: Forms → Bank webhook → SES invite
 
 ---
 
