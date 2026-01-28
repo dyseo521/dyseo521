@@ -8,7 +8,7 @@
 
 - **Inha University**, Electrical & Electronic Engineering (Senior, GPA 3.88/4.5)
 - Passionate about **AI Agent Development** and **Workflow Automation**
-- **9 Awards** including 3 Grand Prizes from hackathons
+- **8 Awards** including 4 First Prizes from hackathons
 - AWS Certified AI Practitioner
 
 ---
@@ -63,14 +63,16 @@
 
 </div>
 
-| Award | Event |
-|:---:|:---|
-| **Grand Prize** | AWS x KB Hackathon |
-| **Grand Prize** | INHA SW NET-Zero Hackathon |
-| **Grand Prize** | IGRUS Hackathon |
-| **Excellence Award** | K-Startup |
-| **Excellence Award** | INHA LINC 3.0 |
-| **Excellence Award** | IGRUS Hackathon |
+| Rank | Award (KR) | Event | Date |
+|:---:|:---:|:---|:---:|
+| 🥇 **1st Prize** | 대상 | INHA SW NET-ZERO Joint Hackathon | 2025.06 |
+| 🥇 **1st Prize** | 대상 | AWS x Sangmyung Hackathon | 2024.08 |
+| 🥇 **1st Prize** | 대상 | Liberal Studies Research Project | 2023.12 |
+| 🥇 **1st Prize** | 금상 | DKU Data Science Competition | 2025.06 |
+| 🥈 **2nd Prize** | 최우수상 | Jeju Univ. x AWS Cloud Hackathon | 2025.01 |
+| 🥈 **2nd Prize** | 최우수상 | Carbon Neutral Innovation Academy 4th | 2025.06 |
+| 🥈 **2nd Prize** | 은상 | Capstone Design Competition | 2025.09 |
+| 🏅 | 장려상 | K-Ocean AI Challenge Busan 2025 | 2025.11 |
 
 ---
 
