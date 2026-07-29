@@ -8,7 +8,7 @@
 
 - **Inha University**, Electrical & Electronic Engineering (Senior, GPA 3.88/4.5)
 - Passionate about **AI Agent Development** and **Workflow Automation**
-- **9 Awards** including **4× Grand Prize** 🥇
+- **10 Awards** including **4× Grand Prize** 🥇
 
 ---
 
